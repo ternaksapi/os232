@@ -20,4 +20,4 @@ Collection of question from previous exams for the Operating Systems course. Gre
 Guide for beginners on how to use nano text editor. I find that using nano is better than using vi in editing files for this course.
 
 2. [How to Use the chmod Command](https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/)<br>
-A brief explanation and a thorough explanation about the chmod command. The link explains what the chmod is for and gives good explanation on how to use each of the command.
+A brief explanation and a thorough guide about the chmod command. The link explains what the chmod is for and gives good explanation on how to use each of the command.
