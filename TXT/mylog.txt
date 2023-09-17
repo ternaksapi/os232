@@ -1,16 +1,22 @@
-Log Format
+# Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 200 L00 Class lectures
-ZCZC W00 20 L01 General miscellaneous activities
-ZCZC W00 10 L02 GitHub related
-ZCZC W00 15 L03 Quiz
-ZCZC W00 60 L04 Reading Assignments
-ZCZC W00 10 L05 SCELE Related
-ZCZC W00 60 L06 Weekly assignments
-ZCZC W01 200 L00 CLass lectures
-ZCZC W01 10 L01 Pop Quiz Related
-ZCZC W01 60 L02 Reading assignments
-ZCZC W01 15 L03 Quiz
-ZCZC W01 80 L04 Weekly assignments
-ZCZC W01 20 L05 Github Related
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.tx\Log Form
+ZCZC W02 200 L00 Class lectures
+ZCZC W02 60 L01 Reading assignments
+ZCZC W02 30 L21 Trying someething
+ZCZC W02 15 L05 Quiz
+ZCZC W02 100 L12 Weekly Assignment
+ZCZC W02 30 L03 Github related
+ZCZC W01 200 L02 CLass lectures
+ZCZC W01 10 L05 Pop Quiz Related
+ZCZC W01 60 L06 Reading assignments
+ZCZC W01 15 L05 Quiz
+ZCZC W01 80 L11 Weekly assignments
+ZCZC W01 20 L03 Github Related
+ZCZC W00 200 L02 Class lectures
+ZCZC W00 20 L00 General miscellaneous activities
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 15 L05 Quiz
+ZCZC W00 60 L06 Reading Assignments
+ZCZC W00 10 L01 SCELE Related
+ZCZC W00 60 L10 Weekly assignments
