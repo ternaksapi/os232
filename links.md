@@ -24,7 +24,7 @@ A brief explanation and a thorough guide about the chmod command. The link expla
 
 ## Week 03
 1. [ChatGPT](https://chat.openai.com/)<br>
-Large Language Model that ypu can ask almost anything that is related to the OS course. Very useful for when you encounter a minor but very specific problem that isn't very easy to find the solution to on your usual search engine like google.
+Large Language Model that you can ask almost anything that is related to the OS course. Very useful for when you encounter a minor but very specific problem that isn't very easy to find the solution to on your usual search engine like google.
 
 2. [Makefile commands](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
 A brief and quick guide on the Makefile command. Useful for the week 3 pop quiz 3.
