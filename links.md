@@ -21,3 +21,10 @@ Guide for beginners on how to use nano text editor. I find that using nano is be
 
 2. [How to Use the chmod Command](https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/)<br>
 A brief explanation and a thorough guide about the chmod command. The link explains what the chmod is for and gives good explanation on how to use each of the command.
+
+## Week 03
+1. [ChatGPT](https://chat.openai.com/)<br>
+Large Language Model that ypu can ask almost anything that is related to the OS course. Very useful for when you encounter a minor but very specific problem that isn't very easy to find the solution to on your usual search engine like google.
+
+2. [Makefile commands](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
+A brief and quick guide on the Makefile command. Useful for the week 3 pop quiz 3.
