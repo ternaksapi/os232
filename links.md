@@ -28,3 +28,7 @@ Large Language Model that you can ask almost anything that is related to the OS 
 
 2. [Makefile commands](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
 A brief and quick guide on the Makefile command. Useful for the week 3 pop quiz 3.
+
+## Week 04
+1 [Transfer File from Windows to Linux over SSH](https://www.addictivetips.com/ubuntu-linux-tips/transfer-files-to-linux-from-windows-10-over-ssh/)<br>
+Tutorial on how to transfer files and folder using SSH. Useful for this weeks pop quiz.
