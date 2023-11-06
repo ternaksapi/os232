@@ -36,3 +36,7 @@ Tutorial on how to transfer files and folder using SSH. Useful for this weeks po
 ## Week 05
 1. [What to do in case of a Linux kernel panic](https://www.redhat.com/sysadmin/linux-kernel-panic)<br>
 Explanation of what a kernel panic is and how to troubleshoot one. 
+
+## Week 06
+1. [fork() in c](https://www.geeksforgeeks.org/fork-system-call/)<br>
+An article on the Fork system call, what it does and examples of it being used.
