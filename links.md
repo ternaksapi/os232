@@ -40,6 +40,7 @@ Explanation of what a kernel panic is and how to troubleshoot one.
 ## Week 06
 1. [fork() in c](https://www.geeksforgeeks.org/fork-system-call/)<br>
 An article on the Fork system call, what it does and examples of it being used.
+<<<<<<< HEAD
 
 ## Week 07
 1. [Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
