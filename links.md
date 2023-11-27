@@ -49,3 +49,7 @@ Explains what process synchronization is.
 ## Week 08
 1. [Building Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
 A site with complete guide on how to build a fully operating linux from scratch. Great for when you want to have your own linux system, without downloading an existing linux distribution.
+
+## Week 09
+1. [Standard Build Units](https://www.linuxfromscratch.org/~bdubbs/about.html)<br>
+An explanation about what SBUs are.

@@ -1,6 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.tx\Log Form
+ZCZC W09 60 L06 Reading Assignment
+ZCZC W09 300 L12 Weekly Assignment
+ZCZC W09 8 L06 Quiz
+ZCZC W09 200 L00 Class lectures
 ZCZC W08 120 L12 Weekly Assignment
 ZCZC W08 60 L01 Reading Assignment
 ZCZC W08 15 L06 Quiz
