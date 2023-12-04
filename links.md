@@ -40,7 +40,6 @@ Explanation of what a kernel panic is and how to troubleshoot one.
 ## Week 06
 1. [fork() in c](https://www.geeksforgeeks.org/fork-system-call/)<br>
 An article on the Fork system call, what it does and examples of it being used.
-<<<<<<< HEAD
 
 ## Week 07
 1. [Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
@@ -53,3 +52,7 @@ A site with complete guide on how to build a fully operating linux from scratch.
 ## Week 09
 1. [Standard Build Units](https://www.linuxfromscratch.org/~bdubbs/about.html)<br>
 An explanation about what SBUs are.
+
+## Week 10
+1. [BLFS](https://www.linuxfromscratch.org/blfs/view/stable/introduction/introduction.html)<br>
+Now that you've installed LFS, what's there next to do? BLFS continues where the LFS book leaves off. 
